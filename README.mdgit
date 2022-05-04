@@ -1,0 +1,1 @@
+"# alura-studies-react"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/guswebhead/alura-studies-react.gitgit push -u origin main
